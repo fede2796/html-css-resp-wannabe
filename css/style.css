@@ -154,6 +154,9 @@ img {
         text-align: center;
         justify-content: center;
     }
+    .why-us{
+        background-color: black;
+    }
  }
    /*Tablet Version*/
 @media  screen and (max-width: 768px) {
