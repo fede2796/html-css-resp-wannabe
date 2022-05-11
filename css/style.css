@@ -162,5 +162,11 @@ img {
     }
  
 }
+ /*Desktop Version*/
+ @media screen and (min-width:769px) {
+  .container{
+      max-width: 100%;
+  }
+ }
  
 
